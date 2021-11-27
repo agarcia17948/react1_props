@@ -1,0 +1,15 @@
+
+
+
+td{
+  padding: 10px;
+  color: black;
+  border-radius: 5px;
+  
+}
+
+
+td:hover{
+  color:beige;
+  background-color: rgb(124, 124, 124);
+}
